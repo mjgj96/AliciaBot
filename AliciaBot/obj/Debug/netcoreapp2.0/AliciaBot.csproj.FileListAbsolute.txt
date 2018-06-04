@@ -1,0 +1,11 @@
+C:\Users\Michael\source\repos\AliciaBot\AliciaBot\bin\Debug\netcoreapp2.0\AliciaBot.deps.json
+C:\Users\Michael\source\repos\AliciaBot\AliciaBot\bin\Debug\netcoreapp2.0\AliciaBot.runtimeconfig.json
+C:\Users\Michael\source\repos\AliciaBot\AliciaBot\bin\Debug\netcoreapp2.0\AliciaBot.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\AliciaBot\AliciaBot\bin\Debug\netcoreapp2.0\AliciaBot.dll
+C:\Users\Michael\source\repos\AliciaBot\AliciaBot\obj\Debug\netcoreapp2.0\AliciaBot.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\AliciaBot\AliciaBot\obj\Debug\netcoreapp2.0\AliciaBot.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\AliciaBot\AliciaBot\obj\Debug\netcoreapp2.0\AliciaBot.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\AliciaBot\AliciaBot\obj\Debug\netcoreapp2.0\AliciaBot.AssemblyInfo.cs
+C:\Users\Michael\source\repos\AliciaBot\AliciaBot\bin\Debug\netcoreapp2.0\AliciaBot.pdb
+C:\Users\Michael\source\repos\AliciaBot\AliciaBot\obj\Debug\netcoreapp2.0\AliciaBot.dll
+C:\Users\Michael\source\repos\AliciaBot\AliciaBot\obj\Debug\netcoreapp2.0\AliciaBot.pdb
